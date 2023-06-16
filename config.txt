@@ -1,0 +1,6 @@
+logging ipv4 dscp cs2
+logging ipv6 dscp cs2
+logging trap notifications
+logging events display-location
+logging format rfc5424
+logging console disable
